@@ -58,7 +58,7 @@ Application Monitoring and Observability tools enable engineering teams, SREs, a
 
 ## 🛠️ Open-Source GitHub Projects
 
-*Sorted by GitHub Stars_Count (Descending)* ⭐️
+*Sorted by GitHub_Stars_Count (Descending)* ⭐️
 
 - **[Uptime Kuma](https://github.com/louislam/uptime-kuma)** [![GitHub_Stars](https://img.shields.io/github/stars/louislam/uptime-kuma?style=social)](https://github.com/louislam/uptime-kuma/stargazers)  
   🐻 A modern, self-hosted monitoring tool for HTTP/HTTPS, Ping, DNS, Docker, and TCP ports. Features status pages and multi-channel alerting (Slack, Telegram, Discord).
