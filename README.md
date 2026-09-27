@@ -58,93 +58,93 @@ Application Monitoring and Observability tools enable engineering teams, SREs, a
 
 ## 🛠️ Open-Source GitHub Projects
 
-*Sorted by GitHub Star Count (Descending)* ⭐️
+*Sorted by GitHub Stars_Count (Descending)* ⭐️
 
-- **[Uptime Kuma](https://github.com/louislam/uptime-kuma)** [![GitHub stars](https://img.shields.io/github/stars/louislam/uptime-kuma?style=social)](https://github.com/louislam/uptime-kuma/stargazers)  
+- **[Uptime Kuma](https://github.com/louislam/uptime-kuma)** [![GitHub_Stars](https://img.shields.io/github/stars/louislam/uptime-kuma?style=social)](https://github.com/louislam/uptime-kuma/stargazers)  
   🐻 A modern, self-hosted monitoring tool for HTTP/HTTPS, Ping, DNS, Docker, and TCP ports. Features status pages and multi-channel alerting (Slack, Telegram, Discord).
 
-- **[Netdata](https://github.com/netdata/netdata)** [![GitHub stars](https://img.shields.io/github/stars/netdata/netdata?style=social)](https://github.com/netdata/netdata/stargazers)  
+- **[Netdata](https://github.com/netdata/netdata)** [![GitHub_Stars](https://img.shields.io/github/stars/netdata/netdata?style=social)](https://github.com/netdata/netdata/stargazers)  
   ⚡ High-resolution infrastructure and application performance monitoring with per-second metrics granularity and zero-configuration auto-discovery.
 
-- **[Elasticsearch](https://github.com/elastic/elasticsearch)** [![GitHub stars](https://img.shields.io/github/stars/elastic/elasticsearch?style=social)](https://github.com/elastic/elasticsearch/stargazers)  
+- **[Elasticsearch](https://github.com/elastic/elasticsearch)** [![GitHub_Stars](https://img.shields.io/github/stars/elastic/elasticsearch?style=social)](https://github.com/elastic/elasticsearch/stargazers)  
   🔍 Distributed, RESTful search engine powering the ELK stack for enterprise log management, APM telemetry ingestion, and distributed trace analytics.
 
-- **[Grafana](https://github.com/grafana/grafana)** [![GitHub stars](https://img.shields.io/github/stars/grafana/grafana?style=social)](https://github.com/grafana/grafana/stargazers)  
+- **[Grafana](https://github.com/grafana/grafana)** [![GitHub_Stars](https://img.shields.io/github/stars/grafana/grafana?style=social)](https://github.com/grafana/grafana/stargazers)  
   📈 The leading open-source dashboarding and visualization platform. Connects seamlessly with Prometheus, Loki, Tempo, InfluxDB, and ClickHouse.
 
-- **[Prometheus](https://github.com/prometheus/prometheus)** [![GitHub stars](https://img.shields.io/github/stars/prometheus/prometheus?style=social)](https://github.com/prometheus/prometheus/stargazers)  
+- **[Prometheus](https://github.com/prometheus/prometheus)** [![GitHub_Stars](https://img.shields.io/github/stars/prometheus/prometheus?style=social)](https://github.com/prometheus/prometheus/stargazers)  
   🔥 The CNCF graduated pull-based metrics monitoring system and time-series database. Industry standard for Kubernetes monitoring with PromQL.
 
-- **[Sentry (Open Source Engine)](https://github.com/getsentry/sentry)** [![GitHub stars](https://img.shields.io/github/stars/getsentry/sentry?style=social)](https://github.com/getsentry/sentry/stargazers)  
+- **[Sentry (Open Source Engine)](https://github.com/getsentry/sentry)** [![GitHub_Stars](https://img.shields.io/github/stars/getsentry/sentry?style=social)](https://github.com/getsentry/sentry/stargazers)  
   🛡️ Developer-first error tracking and performance monitoring platform. Self-hostable containerized backend capturing application exceptions and traces.
 
-- **[SigNoz](https://github.com/SigNoz/signoz)** [![GitHub stars](https://img.shields.io/github/stars/SigNoz/signoz?style=social)](https://github.com/SigNoz/signoz/stargazers)  
+- **[SigNoz](https://github.com/SigNoz/signoz)** [![GitHub_Stars](https://img.shields.io/github/stars/SigNoz/signoz?style=social)](https://github.com/SigNoz/signoz/stargazers)  
   🦔 Native OpenTelemetry-based APM platform storing metrics, traces, and logs in ClickHouse. Feature-rich open-source alternative to Datadog and New Relic.
 
-- **[InfluxDB](https://github.com/influxdata/influxdb)** [![GitHub stars](https://img.shields.io/github/stars/influxdata/influxdb?style=social)](https://github.com/influxdata/influxdb/stargazers)  
+- **[InfluxDB](https://github.com/influxdata/influxdb)** [![GitHub_Stars](https://img.shields.io/github/stars/influxdata/influxdb?style=social)](https://github.com/influxdata/influxdb/stargazers)  
   ⏰ High-performance time-series database built for handling massive volumes of metric data, real-time analytics, and operational monitoring telemetry.
 
-- **[Grafana Loki](https://github.com/grafana/loki)** [![GitHub stars](https://img.shields.io/github/stars/grafana/loki?style=social)](https://github.com/grafana/loki/stargazers)  
+- **[Grafana Loki](https://github.com/grafana/loki)** [![GitHub_Stars](https://img.shields.io/github/stars/grafana/loki?style=social)](https://github.com/grafana/loki/stargazers)  
   🪵 Horizontally scalable, multi-tenant log aggregation engine inspired by Prometheus. Designed for cost-effective log storage and Grafana visualization.
 
-- **[Apache SkyWalking](https://github.com/apache/skywalking)** [![GitHub stars](https://img.shields.io/github/stars/apache/skywalking?style=social)](https://github.com/apache/skywalking/stargazers)  
+- **[Apache SkyWalking](https://github.com/apache/skywalking)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/skywalking?style=social)](https://github.com/apache/skywalking/stargazers)  
   🌌 Enterprise-grade APM and distributed tracing system tailored for microservices, cloud-native deployments, Kubernetes, and service mesh architectures.
 
-- **[Jaeger](https://github.com/jaegertracing/jaeger)** [![GitHub stars](https://img.shields.io/github/stars/jaegertracing/jaeger?style=social)](https://github.com/jaegertracing/jaeger/stargazers)  
+- **[Jaeger](https://github.com/jaegertracing/jaeger)** [![GitHub_Stars](https://img.shields.io/github/stars/jaegertracing/jaeger?style=social)](https://github.com/jaegertracing/jaeger/stargazers)  
   🎯 CNCF graduated end-to-end distributed tracing system created by Uber for monitoring microservices dependencies and performance bottlenecks.
 
-- **[Vector](https://github.com/vectordotdev/vector)** [![GitHub stars](https://img.shields.io/github/stars/vectordotdev/vector?style=social)](https://github.com/vectordotdev/vector/stargazers)  
+- **[Vector](https://github.com/vectordotdev/vector)** [![GitHub_Stars](https://img.shields.io/github/stars/vectordotdev/vector?style=social)](https://github.com/vectordotdev/vector/stargazers)  
   🦀 Ultra-fast, Rust-built observability data pipeline for collecting, transforming, and routing logs, metrics, and traces across diverse destinations.
 
-- **[OpenObserve](https://github.com/openobserve/openobserve)** [![GitHub stars](https://img.shields.io/github/stars/openobserve/openobserve?style=social)](https://github.com/openobserve/openobserve/stargazers)  
+- **[OpenObserve](https://github.com/openobserve/openobserve)** [![GitHub_Stars](https://img.shields.io/github/stars/openobserve/openobserve?style=social)](https://github.com/openobserve/openobserve/stargazers)  
   🔭 Cloud-native observability engine supporting logs, metrics, traces, RUM, and session replay with 140x lower storage costs via Parquet columnar format.
 
-- **[Quickwit](https://github.com/quickwit-oss/quickwit)** [![GitHub stars](https://img.shields.io/github/stars/quickwit-oss/quickwit?style=social)](https://github.com/quickwit-oss/quickwit/stargazers)  
+- **[Quickwit](https://github.com/quickwit-oss/quickwit)** [![GitHub_Stars](https://img.shields.io/github/stars/quickwit-oss/quickwit?style=social)](https://github.com/quickwit-oss/quickwit/stargazers)  
   🚀 Sub-second cloud-native search engine for observability logs and traces operating directly on S3-compatible object storage.
 
-- **[Grafana Pyroscope](https://github.com/grafana/pyroscope)** [![GitHub stars](https://img.shields.io/github/stars/grafana/pyroscope?style=social)](https://github.com/grafana/pyroscope/stargazers)  
+- **[Grafana Pyroscope](https://github.com/grafana/pyroscope)** [![GitHub_Stars](https://img.shields.io/github/stars/grafana/pyroscope?style=social)](https://github.com/grafana/pyroscope/stargazers)  
   🔥 Continuous profiling engine allowing developers to pinpoint CPU, memory, and I/O performance bottlenecks down to specific lines of code.
 
-- **[Checkmate](https://github.com/bluewave-labs/Checkmate)** [![GitHub stars](https://img.shields.io/github/stars/bluewave-labs/Checkmate?style=social)](https://github.com/bluewave-labs/Checkmate/stargazers)  
+- **[Checkmate](https://github.com/bluewave-labs/Checkmate)** [![GitHub_Stars](https://img.shields.io/github/stars/bluewave-labs/Checkmate?style=social)](https://github.com/bluewave-labs/Checkmate/stargazers)  
   ♟️ Self-hosted server hardware, uptime, response time, and incident tracking platform featuring clean dashboards and real-time alerts.
 
-- **[HyperDX](https://github.com/hyperdxio/hyperdx)** [![GitHub stars](https://img.shields.io/github/stars/hyperdxio/hyperdx?style=social)](https://github.com/hyperdxio/hyperdx/stargazers)  
+- **[HyperDX](https://github.com/hyperdxio/hyperdx)** [![GitHub_Stars](https://img.shields.io/github/stars/hyperdxio/hyperdx?style=social)](https://github.com/hyperdxio/hyperdx/stargazers)  
   💡 Developer-centric observability platform unifying session replays, logs, metrics, traces, and exception reports powered by ClickHouse & OpenTelemetry.
 
-- **[Coroot](https://github.com/coroot/coroot)** [![GitHub stars](https://img.shields.io/github/stars/coroot/coroot?style=social)](https://github.com/coroot/coroot/stargazers)  
+- **[Coroot](https://github.com/coroot/coroot)** [![GitHub_Stars](https://img.shields.io/github/stars/coroot/coroot?style=social)](https://github.com/coroot/coroot/stargazers)  
   🐝 Zero-instrumentation APM powered by eBPF. Automatically maps microservice topology, continuously profiles code, and performs AI root cause analysis.
 
-- **[OpenTelemetry Collector](https://github.com/open-telemetry/opentelemetry-collector)** [![GitHub stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-collector?style=social)](https://github.com/open-telemetry/opentelemetry-collector/stargazers)  
+- **[OpenTelemetry Collector](https://github.com/open-telemetry/opentelemetry-collector)** [![GitHub_Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-collector?style=social)](https://github.com/open-telemetry/opentelemetry-collector/stargazers)  
   📡 Vendor-agnostic proxy component for receiving, filtering, transforming, and exporting telemetry data across modern infrastructure stacks.
 
-- **[Zabbix](https://github.com/zabbix/zabbix)** [![GitHub stars](https://img.shields.io/github/stars/zabbix/zabbix?style=social)](https://github.com/zabbix/zabbix/stargazers)  
+- **[Zabbix](https://github.com/zabbix/zabbix)** [![GitHub_Stars](https://img.shields.io/github/stars/zabbix/zabbix?style=social)](https://github.com/zabbix/zabbix/stargazers)  
   🖥️ Long-standing enterprise monitoring solution for enterprise networks, servers, virtual machines, cloud instances, and databases.
 
-- **[Grafana Tempo](https://github.com/grafana/tempo)** [![GitHub stars](https://img.shields.io/github/stars/grafana/tempo?style=social)](https://github.com/grafana/tempo/stargazers)  
+- **[Grafana Tempo](https://github.com/grafana/tempo)** [![GitHub_Stars](https://img.shields.io/github/stars/grafana/tempo?style=social)](https://github.com/grafana/tempo/stargazers)  
   ⏱️ High-scale, minimal dependency distributed tracing backend tightly integrated with Prometheus metrics and Loki log aggregation.
 
-- **[WGCLOUD](https://github.com/tianshiyeben/wgcloud)** [![GitHub stars](https://img.shields.io/github/stars/tianshiyeben/wgcloud?style=social)](https://github.com/tianshiyeben/wgcloud/stargazers)  
+- **[WGCLOUD](https://github.com/tianshiyeben/wgcloud)** [![GitHub_Stars](https://img.shields.io/github/stars/tianshiyeben/wgcloud?style=social)](https://github.com/tianshiyeben/wgcloud/stargazers)  
   🌐 Distributed operations and infrastructure monitoring tool for host servers, Docker, Kubernetes, process metrics, and custom alarms.
 
-- **[Uptrace](https://github.com/uptrace/uptrace)** [![GitHub stars](https://img.shields.io/github/stars/uptrace/uptrace?style=social)](https://github.com/uptrace/uptrace/stargazers)  
+- **[Uptrace](https://github.com/uptrace/uptrace)** [![GitHub_Stars](https://img.shields.io/github/stars/uptrace/uptrace?style=social)](https://github.com/uptrace/uptrace/stargazers)  
   📍 OpenTelemetry-native APM offering distributed tracing, PromQL metrics, and log insights with ClickHouse or PostgreSQL storage backends.
 
-- **[Scouter](https://github.com/scouter-project/scouter)** [![GitHub stars](https://img.shields.io/github/stars/scouter-project/scouter?style=social)](https://github.com/scouter-project/scouter/stargazers)  
+- **[Scouter](https://github.com/scouter-project/scouter)** [![GitHub_Stars](https://img.shields.io/github/stars/scouter-project/scouter?style=social)](https://github.com/scouter-project/scouter/stargazers)  
   🔭 Lightweight open-source APM capturing live XLog scatter charts, active service counts, JVM heap profiling, and SQL query performance.
 
-- **[HttpReports](https://github.com/dotnetcore/HttpReports)** [![GitHub stars](https://img.shields.io/github/stars/dotnetcore/HttpReports?style=social)](https://github.com/dotnetcore/HttpReports/stargazers)  
+- **[HttpReports](https://github.com/dotnetcore/HttpReports)** [![GitHub_Stars](https://img.shields.io/github/stars/dotnetcore/HttpReports?style=social)](https://github.com/dotnetcore/HttpReports/stargazers)  
   🌐 Dedicated APM system for .NET Core web applications and microservices, tracking HTTP requests, latency, and distributed traces.
 
-- **[GlitchTip](https://github.com/burke-software/GlitchTip)** [![GitHub stars](https://img.shields.io/github/stars/burke-software/GlitchTip?style=social)](https://github.com/burke-software/GlitchTip/stargazers)  
+- **[GlitchTip](https://github.com/burke-software/GlitchTip)** [![GitHub_Stars](https://img.shields.io/github/stars/burke-software/GlitchTip?style=social)](https://github.com/burke-software/GlitchTip/stargazers)  
   🐞 Open-source Sentry-compatible error tracking and uptime monitoring platform compatible with standard Sentry client SDKs.
 
-- **[Rails Error Dashboard](https://github.com/AnjanJ/rails_error_dashboard)** [![GitHub stars](https://img.shields.io/github/stars/AnjanJ/rails_error_dashboard?style=social)](https://github.com/AnjanJ/rails_error_dashboard/stargazers)  
+- **[Rails Error Dashboard](https://github.com/AnjanJ/rails_error_dashboard)** [![GitHub_Stars](https://img.shields.io/github/stars/AnjanJ/rails_error_dashboard?style=social)](https://github.com/AnjanJ/rails_error_dashboard/stargazers)  
   💎 Self-hosted Ruby on Rails engine providing in-app exception tracking, multi-channel alerts, and a clean local web dashboard.
 
-- **[Proof](https://github.com/scr34m/proof)** [![GitHub stars](https://img.shields.io/github/stars/scr34m/proof?style=social)](https://github.com/scr34m/proof/stargazers)  
+- **[Proof](https://github.com/scr34m/proof)** [![GitHub_Stars](https://img.shields.io/github/stars/scr34m/proof?style=social)](https://github.com/scr34m/proof/stargazers)  
   🧪 Minimalist Sentry protocol replacement designed for lightweight local software development and isolated test environment debugging.
 
-- **[Argus](https://github.com/oluwatobicode/argus)** [![GitHub stars](https://img.shields.io/github/stars/oluwatobicode/argus?style=social)](https://github.com/oluwatobicode/argus/stargazers)  
+- **[Argus](https://github.com/oluwatobicode/argus)** [![GitHub_Stars](https://img.shields.io/github/stars/oluwatobicode/argus?style=social)](https://github.com/oluwatobicode/argus/stargazers)  
   👁️ Browser, Node.js, and React Native error monitoring library capturing uncaught exceptions, performance metrics, and alerting events.
 
 ---
@@ -179,7 +179,7 @@ Modern production observability architectures typically follow vendor-neutral te
 Contributions are warmly welcomed! To add a new platform or update existing information:
 
 1. 🍴 Fork this repository.
-2. 📝 Edit `README.md` keeping formatting consistent (include name, repo link, star badge, and description).
+2. 📝 Edit `README.md` keeping formatting consistent (include name, repo link, Stars_Badge, and description).
 3. 🔍 Ensure prices, free tier limits, and GitHub star links are accurate and factual.
 4. 🚀 Submit a Pull Request with a short summary of changes.
 
